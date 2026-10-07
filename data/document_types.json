@@ -1,0 +1,52 @@
+{
+ "invoice": {
+  "description": "Supplier invoices with a line-item table and a total",
+  "required_fields": [
+   "invoice_number",
+   "date",
+   "vendor",
+   "line_items",
+   "total"
+  ],
+  "expected_sec_per_page": 4
+ },
+ "bank_statement": {
+  "description": "Monthly bank statements with a transaction table",
+  "required_fields": [
+   "account_number",
+   "period",
+   "transactions",
+   "closing_balance"
+  ],
+  "expected_sec_per_page": 5
+ },
+ "financial_report": {
+  "description": "Quarterly or annual reports with tables, charts and footnotes",
+  "required_fields": [
+   "company",
+   "period",
+   "income_statement",
+   "balance_sheet"
+  ],
+  "expected_sec_per_page": 9
+ },
+ "scanned_form": {
+  "description": "Scanned application or intake forms (image only)",
+  "required_fields": [
+   "form_id",
+   "applicant",
+   "signature_present"
+  ],
+  "expected_sec_per_page": 7
+ },
+ "research_paper": {
+  "description": "Two-column research papers with figures and footnotes",
+  "required_fields": [
+   "title",
+   "authors",
+   "abstract",
+   "references"
+  ],
+  "expected_sec_per_page": 6
+ }
+}

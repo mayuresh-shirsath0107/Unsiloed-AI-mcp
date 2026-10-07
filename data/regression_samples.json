@@ -1,0 +1,1341 @@
+{
+ "REG-001": {
+  "doc_type": "invoice",
+  "source": {
+   "blocks": [
+    "Invoice INV-5380",
+    "Vendor: Pioneer Tools",
+    "Date: 2026-09-01"
+   ],
+   "tables": [
+    [
+     [
+      "Item",
+      "Qty",
+      "Unit Price",
+      "Amount"
+     ],
+     [
+      "Pallet Wrap",
+      "20",
+      "120.00",
+      "2,400.00"
+     ],
+     [
+      "Bracket Set",
+      "15",
+      "300.00",
+      "4,500.00"
+     ],
+     [
+      "Widget A",
+      "18",
+      "120.00",
+      "2,160.00"
+     ],
+     [
+      "Safety Gloves",
+      "6",
+      "80.00",
+      "480.00"
+     ],
+     [
+      "",
+      "",
+      "Total",
+      "9,540.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Payment due within 30 days."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Invoice INV-5380",
+     "Vendor: Pioneer Tools",
+     "Date: 2026-09-01"
+    ],
+    "tables": [
+     [
+      [
+       "Item",
+       "Qty",
+       "Unit Price",
+       "Amount"
+      ],
+      [
+       "Pallet Wrap",
+       "20",
+       "120.00",
+       "2,400.00"
+      ],
+      [
+       "Bracket Set",
+       "15",
+       "300.00",
+       "4,500.00"
+      ],
+      [
+       "Widget A",
+       "18",
+       "120.00",
+       "2,160.00"
+      ],
+      [
+       "Safety Gloves",
+       "6",
+       "80.00",
+       "480.00"
+      ],
+      [
+       "",
+       "",
+       "Total",
+       "9,540.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Payment due within 30 days."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Invoice INV-5380",
+     "Vendor: Pioneer Tools",
+     "Date: 2026-09-01"
+    ],
+    "tables": [
+     [
+      [
+       "Item",
+       "Qty",
+       "Unit Price",
+       "Amount"
+      ],
+      [
+       "Pallet Wrap",
+       "20",
+       "120.00",
+       "2,400.00"
+      ],
+      [
+       "Bracket Set",
+       "15",
+       "300.00",
+       "4,500.00"
+      ],
+      [
+       "Widget A",
+       "18",
+       "120.00",
+       "2,160.00"
+      ],
+      [
+       "Safety Gloves",
+       "6",
+       "80.00",
+       "480.00"
+      ],
+      [
+       "",
+       "",
+       "Total",
+       "9,540.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Payment due within 30 days."
+    ]
+   }
+  }
+ },
+ "REG-002": {
+  "doc_type": "bank_statement",
+  "source": {
+   "blocks": [
+    "Account: ****4821",
+    "Period: Sep 2026"
+   ],
+   "tables": [
+    [
+     [
+      "Date",
+      "Description",
+      "Debit",
+      "Credit",
+      "Balance"
+     ],
+     [
+      "2026-09-01",
+      "Utility bill",
+      "301.00",
+      "",
+      "11,320.00"
+     ],
+     [
+      "2026-09-06",
+      "Payroll",
+      "2,240.00",
+      "",
+      "9,080.00"
+     ],
+     [
+      "2026-09-11",
+      "Card settlement",
+      "2,770.00",
+      "",
+      "6,310.00"
+     ],
+     [
+      "2026-09-16",
+      "Card settlement",
+      "435.00",
+      "",
+      "5,875.00"
+     ],
+     [
+      "2026-09-21",
+      "Rent",
+      "",
+      "2,613.00",
+      "8,488.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Balances shown in USD."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Account: ****4821",
+     "Period: Sep 2026"
+    ],
+    "tables": [
+     [
+      [
+       "Date",
+       "Description",
+       "Debit",
+       "Credit",
+       "Balance"
+      ],
+      [
+       "2026-09-01",
+       "Utility bill",
+       "301.00",
+       "",
+       "11,320.00"
+      ],
+      [
+       "2026-09-06",
+       "Payroll",
+       "2,240.00",
+       "",
+       "9,080.00"
+      ],
+      [
+       "2026-09-16",
+       "Card settlement",
+       "435.00",
+       "",
+       "5,875.00"
+      ],
+      [
+       "2026-09-21",
+       "Rent",
+       "",
+       "2,613.00",
+       "8,488.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Balances shown in USD."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Account: ****4821",
+     "Period: Sep 2026"
+    ],
+    "tables": [
+     [
+      [
+       "Date",
+       "Description",
+       "Debit",
+       "Credit",
+       "Balance"
+      ],
+      [
+       "2026-09-01",
+       "Utility bill",
+       "301.00",
+       "",
+       "11,320.00"
+      ],
+      [
+       "2026-09-06",
+       "Payroll",
+       "2,240.00",
+       "",
+       "9,080.00"
+      ],
+      [
+       "2026-09-11",
+       "Card settlement",
+       "2,770.00",
+       "",
+       "6,310.00"
+      ],
+      [
+       "2026-09-16",
+       "Card settlement",
+       "435.00",
+       "",
+       "5,875.00"
+      ],
+      [
+       "2026-09-21",
+       "Rent",
+       "",
+       "2,613.00",
+       "8,488.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Balances shown in USD."
+    ]
+   }
+  }
+ },
+ "REG-003": {
+  "doc_type": "invoice",
+  "source": {
+   "blocks": [
+    "Invoice INV-8914",
+    "Vendor: Cedar Office Co",
+    "Date: 2026-09-26"
+   ],
+   "tables": [
+    [
+     [
+      "Item",
+      "Qty",
+      "Unit Price",
+      "Amount"
+     ],
+     [
+      "Bracket Set",
+      "13",
+      "120.00",
+      "1,560.00"
+     ],
+     [
+      "Label Roll",
+      "20",
+      "120.00",
+      "2,400.00"
+     ],
+     [
+      "Widget B",
+      "12",
+      "45.00",
+      "540.00"
+     ],
+     [
+      "Safety Gloves",
+      "17",
+      "80.00",
+      "1,360.00"
+     ],
+     [
+      "",
+      "",
+      "Total",
+      "5,860.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Payment due within 30 days."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Invoice INV-8914",
+     "Vendor: Cedar Office Co",
+     "Date: 2026-09-26"
+    ],
+    "tables": [
+     [
+      [
+       "Item",
+       "Qty",
+       "Unit Price",
+       "Amount"
+      ],
+      [
+       "Bracket Set",
+       "13",
+       "120.00",
+       "1,560.00"
+      ],
+      [
+       "Label Roll",
+       "20",
+       "120.00",
+       "2,400.00"
+      ],
+      [
+       "Widget B",
+       "12",
+       "45.00",
+       "540.00"
+      ],
+      [
+       "Safety Gloves",
+       "17",
+       "80.00",
+       "1,360.00"
+      ],
+      [
+       "",
+       "",
+       "Total",
+       "5,860.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Payment due within 30 days."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Invoice INV-8914",
+     "Vendor: Cedar Office Co",
+     "Date: 2026-09-26"
+    ],
+    "tables": [
+     [
+      [
+       "Item",
+       "Qty",
+       "Unit Price",
+       "Amount"
+      ],
+      [
+       "Bracket Set",
+       "13",
+       "120.00",
+       "1,560.00"
+      ],
+      [
+       "Label Roll",
+       "20",
+       "120.00",
+       "2,400.00"
+      ],
+      [
+       "Widget B",
+       "12",
+       "45.00",
+       "540.00"
+      ],
+      [
+       "Safety Gloves",
+       "17",
+       "80.00",
+       "1,360.00"
+      ],
+      [
+       "",
+       "",
+       "Total",
+       "5,86.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Payment due within 30 days."
+    ]
+   }
+  }
+ },
+ "REG-004": {
+  "doc_type": "financial_report",
+  "source": {
+   "blocks": [
+    "Quarterly Financial Summary",
+    "Revenue grew steadily across all three quarters."
+   ],
+   "tables": [
+    [
+     [
+      "Metric",
+      "Q1",
+      "Q2",
+      "Q3"
+     ],
+     [
+      "Revenue",
+      "8,458",
+      "9,226",
+      "9,652"
+     ],
+     [
+      "Gross profit",
+      "4,409",
+      "4,612",
+      "5,123"
+     ],
+     [
+      "Operating cost",
+      "2,917",
+      "3,141",
+      "3,487"
+     ],
+     [
+      "Net income",
+      "942",
+      "978",
+      "1,059"
+     ]
+    ]
+   ],
+   "charts": [
+    "Revenue by quarter (bar chart)"
+   ],
+   "footnotes": [
+    "Figures in USD thousands."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Quarterly Financial Summary",
+     "Revenue grew steadily across all three quarters."
+    ],
+    "tables": [
+     [
+      [
+       "Metric",
+       "Q1",
+       "Q2",
+       "Q3"
+      ],
+      [
+       "Revenue",
+       "8,458",
+       "9,226",
+       "9,652"
+      ],
+      [
+       "Gross profit",
+       "4,409",
+       "4,612",
+       "5,123"
+      ],
+      [
+       "Operating cost",
+       "2,917",
+       "3,141",
+       "3,487"
+      ],
+      [
+       "Net income",
+       "942",
+       "978",
+       "1,059"
+      ]
+     ]
+    ],
+    "charts": [
+     "Revenue by quarter (bar chart)"
+    ],
+    "footnotes": [
+     "Figures in USD thousands."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Quarterly Financial Summary",
+     "Revenue grew steadily across all three quarters."
+    ],
+    "tables": [
+     [
+      [
+       "Metric",
+       "Q1",
+       "Q2",
+       "Q3"
+      ],
+      [
+       "Revenue",
+       "8,458",
+       "9,226",
+       "9,652"
+      ],
+      [
+       "Gross profit",
+       "4,409",
+       "4,612",
+       "5,123"
+      ],
+      [
+       "Operating cost",
+       "2,917",
+       "3,141",
+       "3,487"
+      ],
+      [
+       "Net income",
+       "942",
+       "978",
+       "1,059"
+      ]
+     ]
+    ],
+    "charts": [
+     "Revenue by quarter (bar chart)"
+    ],
+    "footnotes": [
+     "Figures in USD thousands."
+    ]
+   }
+  }
+ },
+ "REG-005": {
+  "doc_type": "research_paper",
+  "source": {
+   "blocks": [
+    "Abstract: we study how accuracy scales with model size.",
+    "Our method improves accuracy by 5 percent on average.",
+    "Results are consistent across all five benchmark datasets.",
+    "Section 2 describes the experimental setup in detail."
+   ],
+   "tables": [],
+   "charts": [
+    "Figure 1: Accuracy vs. model size"
+   ],
+   "footnotes": [
+    "1. See appendix B for the full dataset description."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Abstract: we study how accuracy scales with model size.",
+     "Our method improves accuracy by 5 percent on average.",
+     "Results are consistent across all five benchmark datasets.",
+     "Section 2 describes the experimental setup in detail."
+    ],
+    "tables": [],
+    "charts": [
+     "Figure 1: Accuracy vs. model size"
+    ],
+    "footnotes": [
+     "1. See appendix B for the full dataset description."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Abstract: we study how accuracy scales with model size.",
+     "Our method improves accuracy by 5 percent on average.",
+     "Results are consistent across all five benchmark datasets.",
+     "Section 2 describes the experimental setup in detail."
+    ],
+    "tables": [],
+    "charts": [
+     "Figure 1: Accuracy vs. model size"
+    ],
+    "footnotes": [
+     "1. See appendix B for the full dataset description."
+    ]
+   }
+  }
+ },
+ "REG-006": {
+  "doc_type": "financial_report",
+  "source": {
+   "blocks": [
+    "Quarterly Financial Summary",
+    "Revenue grew steadily across all three quarters."
+   ],
+   "tables": [
+    [
+     [
+      "Metric",
+      "Q1",
+      "Q2",
+      "Q3"
+     ],
+     [
+      "Revenue",
+      "8,962",
+      "9,692",
+      "10,993"
+     ],
+     [
+      "Gross profit",
+      "4,169",
+      "4,334",
+      "5,157"
+     ],
+     [
+      "Operating cost",
+      "2,777",
+      "2,936",
+      "3,390"
+     ],
+     [
+      "Net income",
+      "1,181",
+      "1,239",
+      "1,345"
+     ]
+    ]
+   ],
+   "charts": [
+    "Revenue by quarter (bar chart)"
+   ],
+   "footnotes": [
+    "Figures in USD thousands."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Quarterly Financial Summary",
+     "Revenue grew steadily across all three quarters."
+    ],
+    "tables": [
+     [
+      [
+       "Metric",
+       "Q1",
+       "Q2",
+       "Q3"
+      ],
+      [
+       "Revenue",
+       "8,962",
+       "9,692",
+       "10,993"
+      ],
+      [
+       "Gross profit",
+       "4,169",
+       "4,334",
+       "5,157"
+      ],
+      [
+       "Operating cost",
+       "2,777",
+       "2,936",
+       "3,390"
+      ],
+      [
+       "Net income",
+       "1,181",
+       "1,239",
+       "1,345"
+      ]
+     ]
+    ],
+    "charts": [
+     "Revenue by quarter (bar chart)"
+    ],
+    "footnotes": [
+     "Figures in USD thousands."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Quarterly Financial Summary",
+     "Revenue grew steadily across all three quarters."
+    ],
+    "tables": [
+     [
+      [
+       "Metric",
+       "Q1",
+       "Q2",
+       "Q3"
+      ],
+      [
+       "Revenue",
+       "8,962",
+       "9,692",
+       "10,993"
+      ],
+      [
+       "Gross profit",
+       "4,169",
+       "4,334",
+       "5,157"
+      ],
+      [
+       "Operating cost",
+       "2,777",
+       "2,936",
+       "3,390"
+      ],
+      [
+       "Net income",
+       "1,181",
+       "1,239",
+       "1,345"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Figures in USD thousands."
+    ]
+   }
+  }
+ },
+ "REG-007": {
+  "doc_type": "bank_statement",
+  "source": {
+   "blocks": [
+    "Account: ****4821",
+    "Period: Sep 2026"
+   ],
+   "tables": [
+    [
+     [
+      "Date",
+      "Description",
+      "Debit",
+      "Credit",
+      "Balance"
+     ],
+     [
+      "2026-09-01",
+      "Payroll",
+      "",
+      "2,219.00",
+      "20,371.00"
+     ],
+     [
+      "2026-09-06",
+      "Rent",
+      "783.00",
+      "",
+      "19,588.00"
+     ],
+     [
+      "2026-09-11",
+      "Utility bill",
+      "1,768.00",
+      "",
+      "17,820.00"
+     ],
+     [
+      "2026-09-16",
+      "Rent",
+      "338.00",
+      "",
+      "17,482.00"
+     ],
+     [
+      "2026-09-21",
+      "Payroll",
+      "",
+      "1,811.00",
+      "19,293.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Balances shown in USD."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Account: ****4821",
+     "Period: Sep 2026"
+    ],
+    "tables": [
+     [
+      [
+       "Date",
+       "Description",
+       "Debit",
+       "Credit",
+       "Balance"
+      ],
+      [
+       "2026-09-01",
+       "Payroll",
+       "",
+       "2,219.00",
+       "20,371.00"
+      ],
+      [
+       "2026-09-06",
+       "Rent",
+       "783.00",
+       "",
+       "19,588.00"
+      ],
+      [
+       "2026-09-11",
+       "Utility bill",
+       "1,768.00",
+       "",
+       "17,820.00"
+      ],
+      [
+       "2026-09-16",
+       "Rent",
+       "338.00",
+       "",
+       "17,482.00"
+      ],
+      [
+       "2026-09-21",
+       "Payroll",
+       "",
+       "1,811.00",
+       "19,293.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Balances shown in USD."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Account: ****4821",
+     "Period: Sep 2026"
+    ],
+    "tables": [
+     [
+      [
+       "Date",
+       "Description",
+       "Debit",
+       "Credit",
+       "Balance"
+      ],
+      [
+       "2026-09-01",
+       "Payroll",
+       "",
+       "2,219.00",
+       "20,371.00"
+      ],
+      [
+       "2026-09-06",
+       "Rent",
+       "783.00",
+       "",
+       "19,588.00"
+      ],
+      [
+       "2026-09-11",
+       "Utility bill",
+       "1,768.00",
+       "",
+       "17,820.00"
+      ],
+      [
+       "2026-09-16",
+       "Rent",
+       "338.00",
+       "",
+       "17,482.00"
+      ],
+      [
+       "2026-09-21",
+       "Payroll",
+       "",
+       "1,811.00",
+       "19,293.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Balances shown in USD."
+    ]
+   }
+  }
+ },
+ "REG-008": {
+  "doc_type": "financial_report",
+  "source": {
+   "blocks": [
+    "Quarterly Financial Summary",
+    "Revenue grew steadily across all three quarters."
+   ],
+   "tables": [
+    [
+     [
+      "Metric",
+      "Q1",
+      "Q2",
+      "Q3"
+     ],
+     [
+      "Revenue",
+      "8,023",
+      "8,381",
+      "9,221"
+     ],
+     [
+      "Gross profit",
+      "4,006",
+      "4,477",
+      "4,905"
+     ],
+     [
+      "Operating cost",
+      "2,985",
+      "3,089",
+      "3,709"
+     ],
+     [
+      "Net income",
+      "1,127",
+      "1,236",
+      "1,312"
+     ]
+    ]
+   ],
+   "charts": [
+    "Revenue by quarter (bar chart)"
+   ],
+   "footnotes": [
+    "Figures in USD thousands."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Quarterly Financial Summary",
+     "Revenue grew steadily across all three quarters."
+    ],
+    "tables": [
+     [
+      [
+       "Metric",
+       "Q1",
+       "Q2",
+       "Q3"
+      ],
+      [
+       "Revenue",
+       "8,023",
+       "8,381",
+       "9,221"
+      ],
+      [
+       "Gross profit",
+       "4,006",
+       "4,477",
+       "4,905"
+      ],
+      [
+       "Operating cost",
+       "2,985",
+       "3,089",
+       "3,709"
+      ],
+      [
+       "Net income",
+       "1,127",
+       "1,236",
+       "1,312"
+      ]
+     ]
+    ],
+    "charts": [
+     "Revenue by quarter (bar chart)"
+    ],
+    "footnotes": [
+     "Figures in USD thousands."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Quarterly Financial Summary",
+     "Revenue grew steadily across all three quarters."
+    ],
+    "tables": [
+     [
+      [
+       "Metric",
+       "Q1",
+       "Q2",
+       "Q3"
+      ],
+      [
+       "Revenue",
+       "8,023",
+       "8,381",
+       "9,221"
+      ],
+      [
+       "Gross profit",
+       "4,006 4,477",
+       "4,905"
+      ],
+      [
+       "Operating cost",
+       "2,985",
+       "3,089",
+       "3,709"
+      ],
+      [
+       "Net income",
+       "1,127",
+       "1,236",
+       "1,312"
+      ]
+     ]
+    ],
+    "charts": [
+     "Revenue by quarter (bar chart)"
+    ],
+    "footnotes": [
+     "Figures in USD thousands."
+    ]
+   }
+  }
+ },
+ "REG-009": {
+  "doc_type": "research_paper",
+  "source": {
+   "blocks": [
+    "Abstract: we study how accuracy scales with model size.",
+    "Our method improves accuracy by 9 percent on average.",
+    "Results are consistent across all five benchmark datasets.",
+    "Section 2 describes the experimental setup in detail."
+   ],
+   "tables": [],
+   "charts": [
+    "Figure 1: Accuracy vs. model size"
+   ],
+   "footnotes": [
+    "1. See appendix B for the full dataset description."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Abstract: we study how accuracy scales with model size.",
+     "Results are consistent across all five benchmark datasets.",
+     "Our method improves accuracy by 9 percent on average.",
+     "Section 2 describes the experimental setup in detail."
+    ],
+    "tables": [],
+    "charts": [
+     "Figure 1: Accuracy vs. model size"
+    ],
+    "footnotes": [
+     "1. See appendix B for the full dataset description."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Abstract: we study how accuracy scales with model size.",
+     "Our method improves accuracy by 9 percent on average.",
+     "Results are consistent across all five benchmark datasets.",
+     "Section 2 describes the experimental setup in detail."
+    ],
+    "tables": [],
+    "charts": [
+     "Figure 1: Accuracy vs. model size"
+    ],
+    "footnotes": [
+     "1. See appendix B for the full dataset description."
+    ]
+   }
+  }
+ },
+ "REG-010": {
+  "doc_type": "invoice",
+  "source": {
+   "blocks": [
+    "Invoice INV-2695",
+    "Vendor: Cedar Office Co",
+    "Date: 2026-09-17"
+   ],
+   "tables": [
+    [
+     [
+      "Item",
+      "Qty",
+      "Unit Price",
+      "Amount"
+     ],
+     [
+      "Cable Pack",
+      "4",
+      "120.00",
+      "480.00"
+     ],
+     [
+      "Pallet Wrap",
+      "16",
+      "80.00",
+      "1,280.00"
+     ],
+     [
+      "Widget B",
+      "16",
+      "120.00",
+      "1,920.00"
+     ],
+     [
+      "Widget A",
+      "8",
+      "45.00",
+      "360.00"
+     ],
+     [
+      "",
+      "",
+      "Total",
+      "4,040.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Payment due within 30 days."
+   ]
+  },
+  "outputs": {
+   "v1.4": {
+    "blocks": [
+     "Invoice INV-2695",
+     "Vendor: Cedar Office Co",
+     "Date: 2026-09-17"
+    ],
+    "tables": [
+     [
+      [
+       "Item",
+       "Qty",
+       "Unit Price",
+       "Amount"
+      ],
+      [
+       "Cable Pack",
+       "4",
+       "120.00",
+       "480.00"
+      ],
+      [
+       "Pallet Wrap",
+       "16",
+       "80.00",
+       "1,280.00"
+      ],
+      [
+       "Widget B",
+       "16",
+       "120.00",
+       "1,920.00"
+      ],
+      [
+       "Widget A",
+       "8",
+       "45.00",
+       "360.00"
+      ],
+      [
+       "",
+       "",
+       "Total",
+       "4,040.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Payment due within 30 days."
+    ]
+   },
+   "v2.0": {
+    "blocks": [
+     "Invoice INV-2695",
+     "Vendor: Cedar Office Co",
+     "Date: 2026-09-17"
+    ],
+    "tables": [
+     [
+      [
+       "Item",
+       "Qty",
+       "Unit Price",
+       "Amount"
+      ],
+      [
+       "Cable Pack",
+       "4",
+       "120.00",
+       "480.00"
+      ],
+      [
+       "Pallet Wrap",
+       "16",
+       "80.00",
+       "1,280.00"
+      ],
+      [
+       "Widget B",
+       "16",
+       "120.00",
+       "1,920.00"
+      ],
+      [
+       "Widget A",
+       "8",
+       "45.00",
+       "360.00"
+      ],
+      [
+       "",
+       "",
+       "Total",
+       "4,040.00"
+      ]
+     ]
+    ],
+    "charts": [],
+    "footnotes": [
+     "Payment due within 30 days."
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,660 @@
+[
+ {
+  "batch_id": "BATCH-01",
+  "customer": "Northwind Capital",
+  "parser_version": "v2.0",
+  "job_ids": [
+   "JOB-1001",
+   "JOB-1002",
+   "JOB-1003",
+   "JOB-1004",
+   "JOB-1005",
+   "JOB-1006"
+  ],
+  "status": "completed",
+  "pages": [
+   {
+    "job_id": "JOB-1001",
+    "page": 1,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1001",
+    "page": 2,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1001",
+    "page": 3,
+    "confidence": 0.98,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1002",
+    "page": 1,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1002",
+    "page": 2,
+    "confidence": 0.94,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1003",
+    "page": 1,
+    "confidence": 0.9,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1003",
+    "page": 2,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1004",
+    "page": 1,
+    "confidence": 0.97,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1004",
+    "page": 2,
+    "confidence": 0.98,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1005",
+    "page": 1,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1005",
+    "page": 2,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1005",
+    "page": 3,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1006",
+    "page": 1,
+    "confidence": 0.93,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1006",
+    "page": 2,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1006",
+    "page": 3,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1006",
+    "page": 4,
+    "confidence": 0.97,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1006",
+    "page": 5,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   }
+  ]
+ },
+ {
+  "batch_id": "BATCH-02",
+  "customer": "Helix Logistics",
+  "parser_version": "v2.0",
+  "job_ids": [
+   "JOB-1007",
+   "JOB-1008",
+   "JOB-1009",
+   "JOB-1010",
+   "JOB-1011",
+   "JOB-1012"
+  ],
+  "status": "completed_with_failures",
+  "pages": [
+   {
+    "job_id": "JOB-1007",
+    "page": 1,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1007",
+    "page": 2,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1007",
+    "page": 3,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1007",
+    "page": 4,
+    "confidence": 0.93,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1007",
+    "page": 5,
+    "confidence": 0.98,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1008",
+    "page": 1,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1008",
+    "page": 2,
+    "confidence": 0.9,
+    "issue_type": null,
+    "missing_fields": [
+     "invoice_number"
+    ]
+   },
+   {
+    "job_id": "JOB-1008",
+    "page": 3,
+    "confidence": 0.97,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1010",
+    "page": 1,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1010",
+    "page": 2,
+    "confidence": 0.97,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1011",
+    "page": 1,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1011",
+    "page": 2,
+    "confidence": 0.71,
+    "issue_type": "table_row_uncertain",
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1011",
+    "page": 3,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1012",
+    "page": 1,
+    "confidence": 0.97,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1012",
+    "page": 2,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1012",
+    "page": 3,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   }
+  ]
+ },
+ {
+  "batch_id": "BATCH-03",
+  "customer": "Brightpath Health",
+  "parser_version": "v2.0",
+  "job_ids": [
+   "JOB-1013",
+   "JOB-1014",
+   "JOB-1015",
+   "JOB-1016",
+   "JOB-1017",
+   "JOB-1018"
+  ],
+  "status": "in_progress",
+  "pages": [
+   {
+    "job_id": "JOB-1013",
+    "page": 1,
+    "confidence": 0.64,
+    "issue_type": "merged_cells_suspected",
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1013",
+    "page": 2,
+    "confidence": 0.58,
+    "issue_type": "chart_not_detected",
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1014",
+    "page": 1,
+    "confidence": 0.93,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1014",
+    "page": 2,
+    "confidence": 0.98,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1014",
+    "page": 3,
+    "confidence": 0.99,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1014",
+    "page": 4,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1014",
+    "page": 5,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1015",
+    "page": 1,
+    "confidence": 0.55,
+    "issue_type": "rotated_scan",
+    "missing_fields": [
+     "applicant"
+    ]
+   },
+   {
+    "job_id": "JOB-1015",
+    "page": 2,
+    "confidence": 0.62,
+    "issue_type": "rotated_scan",
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1015",
+    "page": 3,
+    "confidence": 0.7,
+    "issue_type": "rotated_scan",
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1016",
+    "page": 1,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1016",
+    "page": 2,
+    "confidence": 0.93,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1018",
+    "page": 1,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1018",
+    "page": 2,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1018",
+    "page": 3,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1018",
+    "page": 4,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1018",
+    "page": 5,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   }
+  ]
+ },
+ {
+  "batch_id": "BATCH-04",
+  "customer": "Ardent Legal",
+  "parser_version": "v2.0",
+  "job_ids": [
+   "JOB-1019",
+   "JOB-1020",
+   "JOB-1021",
+   "JOB-1022",
+   "JOB-1023",
+   "JOB-1024"
+  ],
+  "status": "completed",
+  "pages": [
+   {
+    "job_id": "JOB-1019",
+    "page": 1,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1019",
+    "page": 2,
+    "confidence": 0.93,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1020",
+    "page": 1,
+    "confidence": 0.99,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1020",
+    "page": 2,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1021",
+    "page": 1,
+    "confidence": 0.74,
+    "issue_type": "table_boundary_uncertain",
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1021",
+    "page": 2,
+    "confidence": 0.94,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1021",
+    "page": 3,
+    "confidence": 0.94,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1022",
+    "page": 1,
+    "confidence": 0.97,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1022",
+    "page": 2,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1022",
+    "page": 3,
+    "confidence": 0.9,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1023",
+    "page": 1,
+    "confidence": 0.99,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1023",
+    "page": 2,
+    "confidence": 0.98,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1023",
+    "page": 3,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1023",
+    "page": 4,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1024",
+    "page": 1,
+    "confidence": 0.95,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1024",
+    "page": 2,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1024",
+    "page": 3,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   }
+  ]
+ },
+ {
+  "batch_id": "BATCH-05",
+  "customer": "Kestrel Insurance",
+  "parser_version": "v2.0",
+  "job_ids": [
+   "JOB-1025",
+   "JOB-1026",
+   "JOB-1027",
+   "JOB-1028",
+   "JOB-1029",
+   "JOB-1030"
+  ],
+  "status": "in_progress",
+  "pages": [
+   {
+    "job_id": "JOB-1025",
+    "page": 1,
+    "confidence": 0.93,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1025",
+    "page": 2,
+    "confidence": 0.9,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1025",
+    "page": 3,
+    "confidence": 0.9,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1027",
+    "page": 1,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1027",
+    "page": 2,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1027",
+    "page": 3,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1027",
+    "page": 4,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1027",
+    "page": 5,
+    "confidence": 0.98,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1029",
+    "page": 1,
+    "confidence": 0.94,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1029",
+    "page": 2,
+    "confidence": 0.96,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1030",
+    "page": 1,
+    "confidence": 0.97,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1030",
+    "page": 2,
+    "confidence": 0.92,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1030",
+    "page": 3,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1030",
+    "page": 4,
+    "confidence": 0.91,
+    "issue_type": null,
+    "missing_fields": []
+   },
+   {
+    "job_id": "JOB-1030",
+    "page": 5,
+    "confidence": 0.98,
+    "issue_type": null,
+    "missing_fields": []
+   }
+  ]
+ }
+]

@@ -1,0 +1,678 @@
+{
+ "JOB-1004:1": {
+  "source": {
+   "blocks": [
+    "Invoice INV-3323",
+    "Vendor: Orbit Supplies",
+    "Date: 2026-09-18"
+   ],
+   "tables": [
+    [
+     [
+      "Item",
+      "Qty",
+      "Unit Price",
+      "Amount"
+     ],
+     [
+      "Cable Pack",
+      "18",
+      "80.00",
+      "1,440.00"
+     ],
+     [
+      "Safety Gloves",
+      "7",
+      "300.00",
+      "2,100.00"
+     ],
+     [
+      "Pallet Wrap",
+      "7",
+      "45.00",
+      "315.00"
+     ],
+     [
+      "Label Roll",
+      "16",
+      "120.00",
+      "1,920.00"
+     ],
+     [
+      "",
+      "",
+      "Total",
+      "5,775.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Payment due within 30 days."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Invoice INV-3323",
+    "Vendor: Orbit Supplies",
+    "Date: 2026-09-18"
+   ],
+   "tables": [
+    [
+     [
+      "Item",
+      "Qty",
+      "Unit Price",
+      "Amount"
+     ],
+     [
+      "Cable Pack",
+      "18",
+      "80.00",
+      "1,440.00"
+     ],
+     [
+      "Safety Gloves",
+      "7",
+      "300.00",
+      "2,100.00"
+     ],
+     [
+      "Pallet Wrap",
+      "7",
+      "45.00",
+      "315.00"
+     ],
+     [
+      "Label Roll",
+      "16",
+      "120.00",
+      "1,920.00"
+     ],
+     [
+      "",
+      "",
+      "Total",
+      "5,77.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Payment due within 30 days."
+   ]
+  }
+ },
+ "JOB-1004:2": {
+  "source": {
+   "blocks": [
+    "Invoice INV-1492",
+    "Vendor: Pioneer Tools",
+    "Date: 2026-09-11"
+   ],
+   "tables": [
+    [
+     [
+      "Item",
+      "Qty",
+      "Unit Price",
+      "Amount"
+     ],
+     [
+      "Pallet Wrap",
+      "16",
+      "80.00",
+      "1,280.00"
+     ],
+     [
+      "Label Roll",
+      "2",
+      "45.00",
+      "90.00"
+     ],
+     [
+      "Widget A",
+      "3",
+      "45.00",
+      "135.00"
+     ],
+     [
+      "Cable Pack",
+      "8",
+      "80.00",
+      "640.00"
+     ],
+     [
+      "",
+      "",
+      "Total",
+      "2,145.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Payment due within 30 days."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Invoice INV-1492",
+    "Vendor: Pioneer Tools",
+    "Date: 2026-09-11"
+   ],
+   "tables": [
+    [
+     [
+      "Item",
+      "Qty",
+      "Unit Price",
+      "Amount"
+     ],
+     [
+      "Pallet Wrap",
+      "16",
+      "80.00",
+      "1,280.00"
+     ],
+     [
+      "Label Roll",
+      "2",
+      "45.00",
+      "90.00"
+     ],
+     [
+      "Widget A",
+      "3",
+      "45.00",
+      "135.00"
+     ],
+     [
+      "Cable Pack",
+      "8",
+      "80.00",
+      "640.00"
+     ],
+     [
+      "",
+      "",
+      "Total",
+      "2,145.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Payment due within 30 days."
+   ]
+  }
+ },
+ "JOB-1011:2": {
+  "source": {
+   "blocks": [
+    "Account: ****4821",
+    "Period: Sep 2026"
+   ],
+   "tables": [
+    [
+     [
+      "Date",
+      "Description",
+      "Debit",
+      "Credit",
+      "Balance"
+     ],
+     [
+      "2026-09-01",
+      "Utility bill",
+      "",
+      "2,326.00",
+      "17,543.00"
+     ],
+     [
+      "2026-09-06",
+      "Rent",
+      "",
+      "2,247.00",
+      "19,790.00"
+     ],
+     [
+      "2026-09-11",
+      "Payroll",
+      "",
+      "2,073.00",
+      "21,863.00"
+     ],
+     [
+      "2026-09-16",
+      "Supplier payment",
+      "2,457.00",
+      "",
+      "19,406.00"
+     ],
+     [
+      "2026-09-21",
+      "Payroll",
+      "",
+      "1,491.00",
+      "20,897.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Balances shown in USD."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Account: ****4821",
+    "Period: Sep 2026"
+   ],
+   "tables": [
+    [
+     [
+      "Date",
+      "Description",
+      "Debit",
+      "Credit",
+      "Balance"
+     ],
+     [
+      "2026-09-01",
+      "Utility bill",
+      "",
+      "2,326.00",
+      "17,543.00"
+     ],
+     [
+      "2026-09-06",
+      "Rent",
+      "",
+      "2,247.00",
+      "19,790.00"
+     ],
+     [
+      "2026-09-16",
+      "Supplier payment",
+      "2,457.00",
+      "",
+      "19,406.00"
+     ],
+     [
+      "2026-09-21",
+      "Payroll",
+      "",
+      "1,491.00",
+      "20,897.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Balances shown in USD."
+   ]
+  }
+ },
+ "JOB-1011:3": {
+  "source": {
+   "blocks": [
+    "Account: ****4821",
+    "Period: Sep 2026"
+   ],
+   "tables": [
+    [
+     [
+      "Date",
+      "Description",
+      "Debit",
+      "Credit",
+      "Balance"
+     ],
+     [
+      "2026-09-01",
+      "Utility bill",
+      "487.00",
+      "",
+      "11,275.00"
+     ],
+     [
+      "2026-09-06",
+      "Utility bill",
+      "",
+      "1,840.00",
+      "13,115.00"
+     ],
+     [
+      "2026-09-11",
+      "Payroll",
+      "",
+      "1,783.00",
+      "14,898.00"
+     ],
+     [
+      "2026-09-16",
+      "Payroll",
+      "",
+      "202.00",
+      "15,100.00"
+     ],
+     [
+      "2026-09-21",
+      "Rent",
+      "414.00",
+      "",
+      "14,686.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Balances shown in USD."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Account: ****4821",
+    "Period: Sep 2026"
+   ],
+   "tables": [
+    [
+     [
+      "Date",
+      "Description",
+      "Debit",
+      "Credit",
+      "Balance"
+     ],
+     [
+      "2026-09-01",
+      "Utility bill",
+      "487.00",
+      "",
+      "11,275.00"
+     ],
+     [
+      "2026-09-06",
+      "Utility bill",
+      "",
+      "1,840.00",
+      "13,115.00"
+     ],
+     [
+      "2026-09-11",
+      "Payroll",
+      "",
+      "1,783.00",
+      "14,898.00"
+     ],
+     [
+      "2026-09-16",
+      "Payroll",
+      "",
+      "202.00",
+      "15,100.00"
+     ],
+     [
+      "2026-09-21",
+      "Rent",
+      "414.00",
+      "",
+      "14,686.00"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Balances shown in USD."
+   ]
+  }
+ },
+ "JOB-1013:1": {
+  "source": {
+   "blocks": [
+    "Quarterly Financial Summary",
+    "Revenue grew steadily across all three quarters."
+   ],
+   "tables": [
+    [
+     [
+      "Metric",
+      "Q1",
+      "Q2",
+      "Q3"
+     ],
+     [
+      "Revenue",
+      "8,481",
+      "9,022",
+      "10,280"
+     ],
+     [
+      "Gross profit",
+      "4,214",
+      "4,368",
+      "5,064"
+     ],
+     [
+      "Operating cost",
+      "2,898",
+      "3,160",
+      "3,372"
+     ],
+     [
+      "Net income",
+      "1,059",
+      "1,122",
+      "1,318"
+     ]
+    ]
+   ],
+   "charts": [
+    "Revenue by quarter (bar chart)"
+   ],
+   "footnotes": [
+    "Figures in USD thousands."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Quarterly Financial Summary",
+    "Revenue grew steadily across all three quarters."
+   ],
+   "tables": [
+    [
+     [
+      "Metric",
+      "Q1",
+      "Q2",
+      "Q3"
+     ],
+     [
+      "Revenue",
+      "8,481",
+      "9,022",
+      "10,280"
+     ],
+     [
+      "Gross profit",
+      "4,214 4,368",
+      "5,064"
+     ],
+     [
+      "Operating cost",
+      "2,898",
+      "3,160",
+      "3,372"
+     ],
+     [
+      "Net income",
+      "1,059",
+      "1,122",
+      "1,318"
+     ]
+    ]
+   ],
+   "charts": [
+    "Revenue by quarter (bar chart)"
+   ],
+   "footnotes": [
+    "Figures in USD thousands."
+   ]
+  }
+ },
+ "JOB-1013:2": {
+  "source": {
+   "blocks": [
+    "Quarterly Financial Summary",
+    "Revenue grew steadily across all three quarters."
+   ],
+   "tables": [
+    [
+     [
+      "Metric",
+      "Q1",
+      "Q2",
+      "Q3"
+     ],
+     [
+      "Revenue",
+      "8,776",
+      "9,768",
+      "9,982"
+     ],
+     [
+      "Gross profit",
+      "4,361",
+      "4,531",
+      "4,918"
+     ],
+     [
+      "Operating cost",
+      "2,908",
+      "3,122",
+      "3,514"
+     ],
+     [
+      "Net income",
+      "996",
+      "1,065",
+      "1,140"
+     ]
+    ]
+   ],
+   "charts": [
+    "Revenue by quarter (bar chart)"
+   ],
+   "footnotes": [
+    "Figures in USD thousands."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Quarterly Financial Summary",
+    "Revenue grew steadily across all three quarters."
+   ],
+   "tables": [
+    [
+     [
+      "Metric",
+      "Q1",
+      "Q2",
+      "Q3"
+     ],
+     [
+      "Revenue",
+      "8,776",
+      "9,768",
+      "9,982"
+     ],
+     [
+      "Gross profit",
+      "4,361",
+      "4,531",
+      "4,918"
+     ],
+     [
+      "Operating cost",
+      "2,908",
+      "3,122",
+      "3,514"
+     ],
+     [
+      "Net income",
+      "996",
+      "1,065",
+      "1,140"
+     ]
+    ]
+   ],
+   "charts": [],
+   "footnotes": [
+    "Figures in USD thousands."
+   ]
+  }
+ },
+ "JOB-1016:1": {
+  "source": {
+   "blocks": [
+    "Abstract: we study how accuracy scales with model size.",
+    "Our method improves accuracy by 8 percent on average.",
+    "Results are consistent across all five benchmark datasets.",
+    "Section 2 describes the experimental setup in detail."
+   ],
+   "tables": [],
+   "charts": [
+    "Figure 1: Accuracy vs. model size"
+   ],
+   "footnotes": [
+    "1. See appendix B for the full dataset description."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Abstract: we study how accuracy scales with model size.",
+    "Our method improves accuracy by 8 percent on average.",
+    "Results are consistent across all five benchmark datasets.",
+    "Section 2 describes the experimental setup in detail."
+   ],
+   "tables": [],
+   "charts": [
+    "Figure 1: Accuracy vs. model size"
+   ],
+   "footnotes": []
+  }
+ },
+ "JOB-1016:2": {
+  "source": {
+   "blocks": [
+    "Abstract: we study how accuracy scales with model size.",
+    "Our method improves accuracy by 9 percent on average.",
+    "Results are consistent across all five benchmark datasets.",
+    "Section 2 describes the experimental setup in detail."
+   ],
+   "tables": [],
+   "charts": [
+    "Figure 1: Accuracy vs. model size"
+   ],
+   "footnotes": [
+    "1. See appendix B for the full dataset description."
+   ]
+  },
+  "parsed": {
+   "blocks": [
+    "Abstract: we study how accuracy scales with model size.",
+    "Results are consistent across all five benchmark datasets.",
+    "Our method improves accuracy by 9 percent on average.",
+    "Section 2 describes the experimental setup in detail."
+   ],
+   "tables": [],
+   "charts": [
+    "Figure 1: Accuracy vs. model size"
+   ],
+   "footnotes": [
+    "1. See appendix B for the full dataset description."
+   ]
+  }
+ }
+}
